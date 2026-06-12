@@ -45,3 +45,20 @@ rate — this divergence warrants manual review before deal finalisation
 3. Weight acquisition budget toward titles with review periods over 365 days 
 to minimise engagement risk
 
+## AI Usage Disclosure
+In line with the assessment guidelines, AI was used as a tool to assist 
+throughout this project in the following areas:
+
+- **Data cleaning** — AI assisted in identifying appropriate cleaning steps 
+and implementing them efficiently in code
+- **Feature engineering** — AI assisted in translating analytical ideas into 
+working aggregation code
+- **Sentiment analysis and scoring** — AI assisted in implementing TextBlob 
+sentiment scoring, the acquisition scoring framework, and min-max scaling
+- **Visualisations** — AI assisted in producing clean, readable charts from 
+the analysis outputs
+- **Markdown explanations** — AI assisted in writing clear explanations 
+throughout the notebook
+- **Dashboard** — AI was used to build the Streamlit app based on the 
+requirements and design of this project
+
